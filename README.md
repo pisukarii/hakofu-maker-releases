@@ -15,7 +15,7 @@
 - 前の版は [Releases](https://github.com/pisukarii/hakofu-maker-releases/releases) にあります。
 - Mac 版：zip を開いて「ハコ譜メーカー.app」をアプリケーションフォルダへ。初めて開くときは、右クリック →「開く」。
 
-Copyright (c) 2025-2026 pisukarii. All rights reserved.
+Copyright (c) 2025-2026 pisukari. All rights reserved.
 許可なく複製・改変・再配布・リバースエンジニアリングすることを禁じます。
 
 同梱しているオープンソース：
